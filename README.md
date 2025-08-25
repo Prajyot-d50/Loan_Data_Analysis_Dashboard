@@ -2,6 +2,11 @@
 
 This repository contains a dashboard and analysis of loan data. It provides visual insights into loan status, gender distribution, education distribution, and payoff trends.
 
+## 📷 Dashboard Preview
+
+<img width="1288" height="443" alt="Screenshot 2025-08-25 154947" src="https://github.com/user-attachments/assets/ba364c1c-1339-45f6-b089-5dfb440a75fc" />
+
+
 ## Dashboard Overview
 - Total Loans: 471600
 - Male Borrowers: 423
