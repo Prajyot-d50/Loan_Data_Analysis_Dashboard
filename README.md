@@ -4,7 +4,7 @@ This repository contains a dashboard and analysis of loan data. It provides visu
 
 ## 📷 Dashboard Preview
 
-<img width="1288" height="443" alt="Screenshot 2025-08-25 154947" src="https://github.com/user-attachments/assets/ba364c1c-1339-45f6-b089-5dfb440a75fc" />
+<img width="1635" height="561" alt="image" src="https://github.com/user-attachments/assets/99800c6b-3d28-4a70-a639-10d3cd81206b" />
 
 
 ## Dashboard Overview
